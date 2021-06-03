@@ -1,2 +1,2 @@
 # Neurona-rgbClassifier
-sdfsdf
+A simple implementation of RGB color classifier model that can be deploy on Arduino AVR boards and other supported microcontroller. This repository uses the [Neurona](https://www.arduino.cc/reference/en/libraries/neurona/), an artificial Neural Network library for Arduino, it allows a Multilayerperceptrons (MLP) / feed-forward Neural Network, a Machinne Learning algorithm can be run on Arduino boards.

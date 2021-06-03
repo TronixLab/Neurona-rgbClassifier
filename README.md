@@ -9,4 +9,8 @@ Install the following Arduino libraries
 * [Adafruit GFX](https://github.com/adafruit/Adafruit-GFX-Library) library
 
 ## Schematic Diagram
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](https://github.com/TronixLab/Neurona-rgbClassifier/blob/main/docx/Schematic.png)
+
+## Video Tuturoial on YouTube
+![GitHub Logo](https://github.com/TronixLab/Neurona-rgbClassifier/blob/main/docx/Schematic.png)
+

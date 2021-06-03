@@ -12,5 +12,5 @@ Install the following Arduino libraries
 ![GitHub Logo](https://github.com/TronixLab/Neurona-rgbClassifier/blob/main/docx/Schematic.png)
 
 ## Video Tuturoial on YouTube
-![GitHub Logo](https://github.com/TronixLab/Neurona-rgbClassifier/blob/main/docx/Schematic.png)
+[![GitHub Logo](https://github.com/TronixLab/Neurona-rgbClassifier/blob/main/docx/YouTube.jpg)](https://www.youtube.com/watch?v=MxXGnBHJJXo)
 

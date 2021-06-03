@@ -8,3 +8,5 @@ Install the following Arduino libraries
 * [Adafruit SSD1306](https://github.com/adafruit/Adafruit_SSD1306) OLED display library
 * [Adafruit GFX](https://github.com/adafruit/Adafruit-GFX-Library) library
 
+## Schematic Diagram
+![GitHub Logo](/images/logo.png)
